@@ -1,3 +1,4 @@
+ # This program creates Punnett Squares from given parent alleles inputted by User. Also allows you to choose from 5 different types of genetic crosses.
 def regular_cross():
     a_one, a_two = list(input("First Parent's Genotype: "))
     b_one, b_two = list(input("Second Parent's Genotype: "))
